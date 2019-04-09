@@ -1,6 +1,6 @@
 /*globals Tablet, Entities, ScriptDiscoveryService*/
 (function(){
-  var MARKETPLACE_QUALIFIER = 'https://highfidelity.com/marketplace/items/';
+  var MARKETPLACE_QUALIFIER = 'https://metaverse.highfidelity.com/marketplace/items/';
   var MARKETPLACE_INJECT_SCRIPT = ScriptDiscoveryService.defaultScriptsPath + "/system/html/js/marketplacesInject.js";
   
   var url;
